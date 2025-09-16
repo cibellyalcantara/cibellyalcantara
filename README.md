@@ -1,5 +1,5 @@
 # Olá, eu sou Cibelly Alcantara
-✍️Análista de Ddos em Desenvolvimento
+✍️Análista de Dados em Desenvolvimento
 <!-- Banner -->
 <p align="center">
   <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=200&section=header&text=Cibelly%20Alcântara&fontSize=45&fontColor=fff&animation=twinkling" />
